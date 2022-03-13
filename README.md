@@ -6,4 +6,5 @@ A Netflix clone é resultado de um desafio de projeto do Bootcamp Take Blip Web 
 
 ## Projeto
 
-Link para acessar o projeto: 
+Link para acessar o projeto: https://flaviafogaca.github.io/netflix-clone/
+

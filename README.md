@@ -1,2 +1,8 @@
-# netflix-clone
-Repositório do Netflix clone, um desafio de projeto realizado no Bootcamp Take Blip Web Developer. 
+# Netflix clone
+
+A Netflix clone é resultado de um desafio de projeto do Bootcamp Take Blip Web Developer. 
+
+
+## Projeto
+
+Link para acessar o projeto: 
